@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465710872572",
+    "project_id": "cashclicks-ea438",
+    "storage_bucket": "cashclicks-ea438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465710872572:android:ed816b1671de9120cfe479",
+        "android_client_info": {
+          "package_name": "com.example.cashclicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-GCnRYFjK68nnJne8yXC6IGtmp6aaxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
